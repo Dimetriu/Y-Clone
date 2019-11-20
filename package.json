@@ -1,0 +1,16 @@
+{
+  "name": "smart_rabbit",
+  "version": "1.0.0",
+  "description": "Shift Management Workflow",
+  "main": "./api/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "cd api && node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
