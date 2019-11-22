@@ -1,0 +1,2 @@
+{"message":"GET / 304 3.800 ms - -","level":"info","service":"user-service"}
+{"message":"GET / 304 0.820 ms - -","level":"info","service":"user-service"}
